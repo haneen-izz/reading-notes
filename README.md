@@ -1,4 +1,9 @@
 # reading-notes
+
+
+https://github.com/haneen-izz (Links to an external site.)
+i am haneen i am 20 years old that's my second year in software engineering student at LTUC, i am here to learn web development and to expand my knowledge in my field.
+
 # grwoth mindset :brain: 
 A growth mindset maintains that basic abilities can be acquired through patience and effort; intellect and talent are just good beginning points.A growth mindset is linked with a desire to learn new things also This notion resonated with people since they have noticed that when they try new activities, they frequently get only so far before meeting a roadblock and giving up. 
 ### how to keep yourself in a growth mindset
