@@ -31,9 +31,9 @@ HTML is a markup language that defines the structure of your content. HTML consi
 
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
-Semantics in HTML
+#### Semantics in HTML
 
-In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page.
+In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page.
 
 useful website to read more about HTML
 [click here](https://html.com/)
