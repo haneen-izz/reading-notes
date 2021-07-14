@@ -25,9 +25,10 @@ Even in such a simple HTML we wanted to create we had to use + several time and 
 ### Standard objects by category
 
 1. Value properties
+2. Function properties
 
 
-These global properties return a simple value. They have no properties or methods.
+value properties return a simple value. They have no properties or methods.
 
 * Infinity
 * NaN
@@ -35,9 +36,7 @@ These global properties return a simple value. They have no properties or method
 * globalThis
 
 
-2. Function properties
-
-These global functions—functions which are called globally, rather than on an object—directly return their results to the caller.
+Function properties These global functions—functions which are called globally, rather than on an object—directly return their results to the caller.
 
   * eval()
   * uneval() 
