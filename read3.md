@@ -24,6 +24,8 @@ Wireframing is a practice used by UX designers which allows them to define and p
 
 HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
 
+![HTML picture](https://img2.arabpng.com/20180705/pcs/kisspng-html-computer-icons-html-css-5b3e4919d736f3.2258832915308086018815.jpg)
+
 
 
 #### Semantics in general
