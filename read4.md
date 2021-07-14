@@ -26,6 +26,7 @@ Even in such a simple HTML we wanted to create we had to use + several time and 
 
 1. Value properties
 
+
 These global properties return a simple value. They have no properties or methods.
 
 * Infinity
