@@ -27,7 +27,7 @@ An assignment operator assigns a value to its left operand based on the value of
 An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/).
 
 | name  |  Description   | example  |
-| ------------- |-------------| -----|
+| ------------- |:-------------:| -----:|
 |Remainder (%)     |Binary operator  |	12 % 5 returns 2. |
 |Increment (++)     | Unary operator   |  If x is 3, then ++x sets x to 4 and returns 4, whereas x++ returns 3 and, only then, sets x to 4.  |
 |Decrement (--)  | Unary operator    |If x is 3, then --x sets x to 2 and returns 2, whereas x-- returns 3 and, only then, sets x to 2.|
@@ -46,7 +46,7 @@ for (let step = 0; step < 5; step++) {
   console.log('Walking east one step'); } 
   ```
 
-** for statement**
+#### for statement
 
 A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
@@ -57,7 +57,7 @@ for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
   ```
 
-** while statement**
+#### while statement
 
 A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows: 
 
