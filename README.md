@@ -11,7 +11,7 @@ name of the read | link of it
   read4| [read4](https://haneen-izz.github.io/reading-notes/read4) 
   read5| [read5](https://haneen-izz.github.io/reading-notes/read5) 
   read6| [read6](https://haneen-izz.github.io/reading-notes/read6) 
-  read6| [read7](https://haneen-izz.github.io/reading-notes/read7) 
+  read7| [read7](https://haneen-izz.github.io/reading-notes/read7) 
 
 
 
