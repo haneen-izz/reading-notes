@@ -19,7 +19,9 @@ name of the read | link of it
 
 name of the read | link of it 
  ------------ | ------------- 
-read1 | [read1](https://haneen-izz.github.io/reading-notes/201Reading-notes/class01)
+read1 | [class01](https://haneen-izz.github.io/reading-notes/201Reading-notes/class01)
+read2 | [class02](https://haneen-izz.github.io/reading-notes/201Reading-notes/class02)
+
 
 
  
