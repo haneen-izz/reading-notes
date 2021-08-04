@@ -114,8 +114,8 @@ p {  line-height: 1.4em;}
 ### attribute Selectors
 | Selector | meaning | example |
 | :---      |    :----:   |          ---: |
-|existence  |`[]` Matches a specific attribute whatever its value  | p[class]|
-| equality  | `[-]` Matches a specific attribute with a specific value | p[class="dog"]|
+|existence  |`[]` Matches a specific attribute whatever its value  | `p[class]`|
+|equality   | `[-]` Matches a specific attribute with a specific value | `p[class="dog"]` |
 
 
 ## TL;DR
