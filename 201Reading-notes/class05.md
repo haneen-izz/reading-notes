@@ -76,9 +76,6 @@ When picking foreground and background colors, it is important to ensure that th
 + saturation
 + lightness
 
- ### summary of this:
-+ SS3 has introduced an extra value for RGB colors to  indicate opacity.
-+ CSS3 also allows you to specify colors as HSL value with an optional opacity value. 
 
 
 ## text 
@@ -115,10 +112,10 @@ p {  line-height: 1.4em;}
 `p.intro:first-letter {  font-size: 200%;}`
 
 ### attribute Selectors
-| Selector     | meaning | example    |
-| :---        |    :----:   |          ---: |
-|existence      |`[]` Matches a specific attribute whatever its value  | p[class]   |
-| equality   | `[-]` Matches a specific attribute with a specific value | p[class="dog"]      |
+| Selector | meaning | example |
+| :---      |    :----:   |          ---: |
+|existence  |`[]` Matches a specific attribute whatever its value  | p[class]|
+| equality  | `[-]` Matches a specific attribute with a specific value | p[class="dog"]|
 
 
 ## TL;DR
