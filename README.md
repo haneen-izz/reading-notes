@@ -24,6 +24,8 @@ class02 | [class02](https://haneen-izz.github.io/reading-notes/201Reading-notes/
 class03| [class03](https://haneen-izz.github.io/reading-notes/201Reading-notes/class03)
 class04| [class04](https://haneen-izz.github.io/reading-notes/201Reading-notes/class04)
 class05| [class05](https://haneen-izz.github.io/reading-notes/201Reading-notes/class05)
+class06| [class06](https://haneen-izz.github.io/reading-notes/201Reading-notes/class06)
+
 
 
 
