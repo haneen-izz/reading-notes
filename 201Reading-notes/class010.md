@@ -57,5 +57,14 @@ Error objects can help you find where your mistakes are and browsers have tools 
 | Syntax Error | syntax has not been followed  |
 
 
+### HOW TO DEAL WITH ERRORS 
+Now that you know what an error is and how the browser treats them, there are two things you can do with the errors. 
 
 
+### BROWSER DEV TOOLS and JAVASCRIPT CONSOLE 
+
+The JavaScript console will tell you when there is a problem with a script, where to look for the problem, and what kind of issue it seems to be
+
+- TRY
+- catch 
+- FINALLY 
