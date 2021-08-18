@@ -32,6 +32,7 @@ class10| [class10](https://haneen-izz.github.io/reading-notes/201Reading-notes/c
 class11| [class11](https://haneen-izz.github.io/reading-notes/201Reading-notes/class11)
 class12| [class12](https://haneen-izz.github.io/reading-notes/201Reading-notes/class12)
 class13| [class13](https://haneen-izz.github.io/reading-notes/201Reading-notes/class13)
+class14| [class14](https://haneen-izz.github.io/reading-notes/201Reading-notes/class14)
 
 
 
