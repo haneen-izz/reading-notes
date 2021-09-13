@@ -80,7 +80,7 @@ class Clock extends React.Component {
      automatically re-render whenever there is a change in their state or props.
   
 
-lick here to read more :
+click here to read more :
    [link](https://www.freecodecamp.org/news/react-js-for-beginners-props-state-explained/)
 
 
