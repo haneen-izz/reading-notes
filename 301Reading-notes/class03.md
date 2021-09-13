@@ -41,10 +41,12 @@ Keys help React identify which items have changed, are added, or are removed
    In JavaScript, spread syntax refers to the use of an ellipsis of three dots to expand an iterable object into the list of arguments.
    
    - List 4 things that the spread operator can do.
-    + Copying an array
-    + Concatenating or combining arrays
-    + Using Math functions
-    + Using an array as arguments
+
+      * Copying an array
+      * Concatenating or combining arrays
+      * Using Math functions
+      * Using an array as arguments
+      
 
  - Give an example of using the spread operator to combine two arrays.
 
