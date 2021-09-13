@@ -67,6 +67,19 @@ class Clock extends React.Component {
 - React events are named using camelCase, rather than lowercase.
 - With JSX you pass a function as the event handler, rather than a string.
 
+
+## questions
+
+    1. What types of things can you pass in the props?
+    react allows us to pass values from a parent component down to a child component.
+
+    2. What is the big difference between props and state?
+    state is internal and controlled by the component itself while props are external and controlled by whatever renders the component.
+
+    3. When do we re-render our application?
+     automatically re-render whenever there is a change in their state or props.
+  
+
 lick here to read more :
    [link](https://www.freecodecamp.org/news/react-js-for-beginners-props-state-explained/)
 
