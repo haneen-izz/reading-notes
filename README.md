@@ -45,7 +45,7 @@ class15| [class15](https://haneen-izz.github.io/reading-notes/201Reading-notes/c
 name of the read | link of it 
  ------------ | ------------- 
 class01 | [class01](https://haneen-izz.github.io/reading-notes/301Reading-notes/class01)
-class02 | [class02]()
+class02 | [class02](https://haneen-izz.github.io/reading-notes/301Reading-notes/class02)
 
 
 
