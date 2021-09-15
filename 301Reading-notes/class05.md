@@ -100,3 +100,8 @@ Summary
 
 Being able to pass function values to other functions is a deeply useful aspect of JavaScript. It allows us to write functions that model computations with “gaps” in them. The code that calls these functions can fill in the gaps by providing function values.
 
+
+click here to read more Higher-Order Functions:
+[link](https://towardsdatascience.com/what-is-a-higher-order-function-12f5fd671e97)
+
+
