@@ -2,10 +2,10 @@
 # intro about myself
 i am haneen i am 20 years old that's my second year in software engineering at LTUC, i am here to learn web development and to expand my knowledge in my field.
 
-  ## Code 102 - Intro to Software Development
- ## Code 201 - Foundations of Software Development
-  ## Code 301 - Intermediate Software Development
- ## Code 401 - Advanced Software Development
+**Code 102 - Intro to Software Development**
+**Code 201 - Foundations of Software Development**
+**Code 301 - Intermediate Software Development**
+**Code 401 - Advanced Software Development**
 
 # table of content 102
 
