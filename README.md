@@ -53,6 +53,7 @@ class06| [class06](https://haneen-izz.github.io/reading-notes/301Reading-notes/c
 class07| [class07](https://haneen-izz.github.io/reading-notes/301Reading-notes/class07)
 class08| [class08](https://haneen-izz.github.io/reading-notes/301Reading-notes/class08)
 class10| [class10](https://haneen-izz.github.io/reading-notes/301Reading-notes/class10)
+class11| [class11](https://haneen-izz.github.io/reading-notes/301Reading-notes/class11)
 
 
 
