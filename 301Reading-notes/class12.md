@@ -12,7 +12,7 @@ SQL | NoSQL
 SQL databases are primarily called as Relational Databases (RDBMS);  | NoSQL database are primarily called as non-relational or distributed database.
 SQL databases have predefined schema| NoSQL databases have dynamic schema for unstructured data.
 SQL databases are vertically scalable |  NoSQL databases are horizontally scalable.
-or the type of data to be stored: SQL databases are not best fit for hierarchical data storage | NoSQL database fits better for the hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data
+SQL databases are not best fit for hierarchical data storage | NoSQL database fits better for the hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data
 
 ---
 * What kind of data is a good fit for an SQL database?
